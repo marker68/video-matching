@@ -1,9 +1,9 @@
 A video and caption matching system
 =======
 
-# Introduction
+## Introduction
 
-# Prerequisites
+## Prerequisites
 
 * Python 2.7.x or 3.5.x
 
@@ -18,7 +18,7 @@ A video and caption matching system
 }
 ```
 
-	* A configuration for Theano (use in `~/.theanorc`, with GPU+CUDNN):
+* A configuration for Theano (use in `~/.theanorc`, with GPU+CUDNN):
 
 ```
 [global]
@@ -34,8 +34,8 @@ enabled = True
 cnmem = 1 # maybe it is good
 ```
 
-# Structure
+## Structure
 
-# Contact and future maintain
+## Contact and future maintain
 
-I actually do not have a plan to maintain this Python implement in future (I'm moving all my codebase to Java now, sadly). For any technical discussions, please file an [issue](https://github.com/marker68/video-matching/issues/new).
+I actually **do not have a plan to maintain** this Python implement in future (I'm moving all my codebase to Java now, sadly). For any technical discussions, please file an [issue](https://github.com/marker68/video-matching/issues/new).
