@@ -38,5 +38,5 @@ cnmem = 1 # maybe it is good
 
 ## Contact and future maintain
 
-I actually **do not have a plan to maintain or support** this Python implement in future (I'm moving all my codebase to Java now, sadly).
+I actually **do not have any plans to maintain or support** this Python implementation in future (I'm moving all my codebase to Java now, sadly).
 For any technical discussions, please file an [issue](https://github.com/marker68/video-matching/issues/new).
